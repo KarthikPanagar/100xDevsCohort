@@ -1,1 +1,1 @@
-Includes all the projects and assignments of the 100xDevs Cohort.
+Includes all the projects and assignments from the 100xDevs Cohort.
